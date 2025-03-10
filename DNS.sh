@@ -1,3 +1,4 @@
+#!/bin/bash
 new_client_dns () {
     echo "Select a DNS server for the client:"
     echo "   1) Current system resolvers"
